@@ -1,3 +1,8 @@
+/*
+Given  strings of brackets, determine whether each sequence of brackets is balanced. 
+If a string is balanced, print YES on a new line; otherwise, print NO on a new line.
+*/
+
 public class Solution {
     
     public static boolean isBalanced(String expression) {
